@@ -21,3 +21,7 @@ All available Controls start with FSC[CONTROL_NAME]
 A matching custom messagebox is included: FSCMessageBox.Show(...);
 
 FSC-UI contains a ThemeBuilder and a ThemeLoader class to Load / Save / Create Themes
+
+---
+
+Some features are missing or you found a bug? Message me on discord, every idea is welcome: Discord -> Fabian#3563 (Don't message me for fun!)
