@@ -1,6 +1,8 @@
 # FSC-UI
 Custom modern UI Library for Windows Forms Applications
 
+Available in Nuget Store: https://www.nuget.org/packages/FSC-UI/
+
 ---
 
 Use the Controls and custom form directly out of your toolbox. 
